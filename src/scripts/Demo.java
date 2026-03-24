@@ -5,6 +5,8 @@ public static void main(String[] args) {
 	System.out.println("first class of git");
 	System.out.println("first class of git");
 	System.out.println("first class of git");
+	System.out.println("first class of git1");
+	System.out.println("first class of git3");
 	
 }
 }
